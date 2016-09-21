@@ -1,2 +1,3 @@
 Some new lines here
 For buddy repository test
+I add this line, could you see it?
